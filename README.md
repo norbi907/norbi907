@@ -16,4 +16,12 @@ For contact you can reach me:
 
 Tools:
 - Languages
-  - HTML 
+  - HTML5
+  - JS
+  - C++ (WIP)
+  - PHP
+  - SQL
+- Frameworks
+  - React
+  - Vue.js
+  - Babylon.js 
