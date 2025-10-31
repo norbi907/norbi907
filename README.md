@@ -11,5 +11,5 @@ In my free time I like to:
 - Keep up with my health
 
 For contact you can reach me:
-On X
-On LinkedIn
+- On X
+- On LinkedIn
