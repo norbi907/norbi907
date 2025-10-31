@@ -13,3 +13,7 @@ In my free time I like to:
 For contact you can reach me:
 - On X
 - On LinkedIn
+
+Tools:
+- Languages
+  - HTML 
