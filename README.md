@@ -1,4 +1,7 @@
-## Hi there 👋
+![backgrounder](https://github.com/user-attachments/assets/fcbb3420-9a6d-4d85-81cd-1c54f463e9d9)
+
+## Hi there, Welcome! 👋
+
 
 <!--
 **norbi907/norbi907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
